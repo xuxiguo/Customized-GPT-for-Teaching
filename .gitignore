@@ -1,0 +1,29 @@
+# Hide specific presentation and instruction files
+gamma-slides-prompt.md
+Instruction for Prompt writing gpt.md
+presentation guidence.md
+
+# Hide empty configs folder
+configs/
+
+# General files to ignore
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*~
+
+# VS Code settings
+.vscode/
+
+# Node modules (if any)
+node_modules/
+
+# Python cache (if any)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
