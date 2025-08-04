@@ -1,4 +1,4 @@
-# Customized GPT Panel for Teaching 🎓
+# Customized GPT for Teaching 🎓
 
 A comprehensive collection of educational GPT configurations designed to enhance student learning through Socratic questioning and guided critical thinking.
 
@@ -112,10 +112,11 @@ Our GPTs demonstrate versatility across disciplines with proven Socratic impleme
 
 ## 👨‍🏫 About the Creator
 
-**Professor Norman Guo**
+**Dr. Norman Guo**
 - Teaching focus: AI Tools, Finance, Blockchain Technology
-- Institution: [Your Institution]
-- Contact: [Your Contact Information]
+- Institution: University of California, Riverside - School of Business
+- Research interests: Educational AI, Financial Technology, Blockchain Applications
+- Contact: norman.guo@ucr.edu
 
 ## 📄 License
 
