@@ -117,8 +117,8 @@ Our GPTs demonstrate versatility across disciplines with proven Socratic impleme
 
 **Dr. Norman Guo**
 - Institution: Saint Louis University - School of Business
+- Research interests: FinTech (AI, Machine Learning, Deep Learning), Investments (Hedge Funds, Mutual Funds,Portfolio Management), Corporate Finance (Financial Analysts)
 - Teaching focus: Financial Technology (Machine Learning), Blockchain Technology, AI Tool Integration
-- Research interests: FinTech (AI, Machine Learning, Deep Learning), Investments (Hedge Funds, Mutual Funds, Portfolio Management), Corporate Finance (Financial Analysts)
 - Website: [https://xuxiguo.github.io/](https://xuxiguo.github.io/)
 - Contact: norman.guo@slu.edu
 
