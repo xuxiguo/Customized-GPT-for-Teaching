@@ -6,6 +6,9 @@ A comprehensive collection of educational GPT configurations designed to enhance
 
 This repository showcases specialized GPT configurations for educational purposes, focusing on finance, blockchain, and business education. Each GPT is designed to guide students through complex concepts using structured questioning rather than providing direct answers.
 
+### 📋 Presentation Materials
+**[🎯 Complete Presentation Slides](https://customizing-chatgpt-for--zw2wg4r.gamma.site/)** - Comprehensive overview of the educational GPT framework, workflow, and implementation strategies.
+
 ## 🎓 Live Demo Showcase
 
 Experience our working educational GPTs across different disciplines:
