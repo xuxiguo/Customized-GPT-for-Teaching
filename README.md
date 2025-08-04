@@ -116,10 +116,11 @@ Our GPTs demonstrate versatility across disciplines with proven Socratic impleme
 ## 👨‍🏫 About the Creator
 
 **Dr. Norman Guo**
-- Teaching focus: AI Tools, Finance, Blockchain Technology
-- Institution: University of California, Riverside - School of Business
-- Research interests: Educational AI, Financial Technology, Blockchain Applications
-- Contact: norman.guo@ucr.edu
+- Institution: Saint Louis University - School of Business
+- Teaching focus: Financial Technology (Machine Learning), Blockchain Technology, AI Tool Integration
+- Research interests: FinTech (AI, Machine Learning, Deep Learning), Investments (Hedge Funds, Mutual Funds, Portfolio Management), Corporate Finance (Financial Analysts)
+- Website: [https://xuxiguo.github.io/](https://xuxiguo.github.io/)
+- Contact: norman.guo@slu.edu
 
 ## 📄 License
 
