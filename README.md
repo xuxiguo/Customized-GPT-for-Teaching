@@ -100,17 +100,16 @@ Our GPTs demonstrate versatility across disciplines with proven Socratic impleme
 - [**Course Evaluation Guide**](./wiki/course-evaluation-guide.md) - Complete CognitoAI platform manual
 
 ### 🧩 Configuration Library
-- [configs/news-discussion.yaml](./configs/news-discussion.yaml) — Bitcoin ETF article discussion assistant
-- [configs/case-study.yaml](./configs/case-study.yaml) — Monster Beverage capital budgeting assistant
-- [configs/course-ta.yaml](./configs/course-ta.yaml) — Norman Blockchain course TA
-- [configs/blockchain-case-study.yaml](./configs/blockchain-case-study.yaml) — Blockchain case analysis + GPT reflection
+- [demos/news-discussion/config.yaml](./demos/news-discussion/config.yaml) — Bitcoin ETF article discussion assistant
+- [demos/case-study/config.yaml](./demos/case-study/config.yaml) — Monster Beverage capital budgeting assistant
+- [demos/course-ta/config.yaml](./demos/course-ta/config.yaml) — Norman Blockchain course TA
+- [demos/blockchain-case-study/config.yaml](./demos/blockchain-case-study/config.yaml) — Blockchain case analysis + GPT reflection
 
 ### Repository Structure
 ```
 ├── demos/                           # Sample GPT showcases with live links
 ├── wiki/                           # Comprehensive documentation
 ├── assets/                         # Screenshots and visual guides
-├── configs/                        # Machine-readable GPT configurations (YAML)
 ```
 
 ### Learning Path

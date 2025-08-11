@@ -13,8 +13,7 @@ Guide students through comprehensive blockchain application analysis, focusing o
 ## 🔗 Access Links
 
 - **Live GPT**: [Blockchain Case Study Brainstorm](https://chatgpt.com/g/g-689105f96214819197822b022382d57f-blockchain-case-study-brainstorm)
-- **Configuration (local)**: [config.yaml](./config.yaml)
-- **Configuration (canonical)**: [configs/blockchain-case-study.yaml](../../configs/blockchain-case-study.yaml)
+- **Configuration**: [config.yaml](./config.yaml)
 - **Description**: Come up with own statement on the case and brainstorm with ChatGPT
 
 ## 📊 Case Study Resources

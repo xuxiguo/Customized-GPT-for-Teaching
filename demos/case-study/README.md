@@ -14,8 +14,7 @@ Guide students through comprehensive capital budgeting analysis, focusing on:
 ## 🔗 Access Links
 
 - **Live GPT**: [Monster Beverage Capital Budgeting Decision](https://chatgpt.com/g/g-682403e6757081919bc0555d1f4bbe0b-monster-beverage-capital-budgeting-decision)
-- **Configuration (local)**: [config.yaml](./config.yaml)
-- **Configuration (canonical)**: [configs/case-study.yaml](../../configs/case-study.yaml)
+- **Configuration**: [config.yaml](./config.yaml)
 - **Description**: Learn Capital Budgeting through class
 
 ## 💰 Investment Scenario

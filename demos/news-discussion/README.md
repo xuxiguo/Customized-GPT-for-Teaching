@@ -13,8 +13,7 @@ Guide students through critical analysis of Bitcoin ETF developments, focusing o
 ## 🔗 Access Links
 
 - **Live GPT**: [Blockchain Discussion: Bitcoin ETFs](https://chatgpt.com/g/g-682769dfb4dc81919304b7603a8d0812-blockchain-discussion-bitcoin-etfs)
-- **Configuration (local)**: [config.yaml](./config.yaml)
-- **Configuration (canonical)**: [configs/news-discussion.yaml](../../configs/news-discussion.yaml)
+- **Configuration**: [config.yaml](./config.yaml)
 - **Description**: Discussion Assistant for the topics of Bitcoin ETFs
 
 ## 📚 Required Reading Materials

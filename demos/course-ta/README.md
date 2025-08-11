@@ -13,8 +13,7 @@ Support students in mastering blockchain concepts through:
 ## 🔗 Access Links
 
 - **Live GPT**: [Norman Blockchain Personal Assistant](https://chatgpt.com/g/g-6827649b6ea881918c26776087f2bc59-norman-blockchain-personal-assistant)
-- **Configuration (local)**: [config.yaml](./config.yaml)
-- **Configuration (canonical)**: [configs/course-ta.yaml](../../configs/course-ta.yaml)
+- **Configuration**: [config.yaml](./config.yaml)
 - **Description**: Your favorite TA for Norman Blockchain Class
 
 ## 🎓 Learning Methodology
