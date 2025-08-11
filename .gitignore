@@ -3,9 +3,6 @@ gamma-slides-prompt.md
 Instruction for Prompt writing gpt.md
 presentation guidence.md
 
-# Hide empty configs folder
-configs/
-
 # General files to ignore
 .DS_Store
 Thumbs.db

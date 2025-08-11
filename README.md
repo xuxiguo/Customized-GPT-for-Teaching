@@ -99,12 +99,18 @@ Our GPTs demonstrate versatility across disciplines with proven Socratic impleme
 - [**Conversation Guide**](./wiki/conversation-guide.md) - How to access and interact with live GPTs
 - [**Course Evaluation Guide**](./wiki/course-evaluation-guide.md) - Complete CognitoAI platform manual
 
+### 🧩 Configuration Library
+- [configs/news-discussion.yaml](./configs/news-discussion.yaml) — Bitcoin ETF article discussion assistant
+- [configs/case-study.yaml](./configs/case-study.yaml) — Monster Beverage capital budgeting assistant
+- [configs/course-ta.yaml](./configs/course-ta.yaml) — Norman Blockchain course TA
+- [configs/blockchain-case-study.yaml](./configs/blockchain-case-study.yaml) — Blockchain case analysis + GPT reflection
+
 ### Repository Structure
 ```
 ├── demos/                           # Sample GPT showcases with live links
 ├── wiki/                           # Comprehensive documentation
 ├── assets/                         # Screenshots and visual guides
-├── examples/                       # Sample conversation transcripts
+├── configs/                        # Machine-readable GPT configurations (YAML)
 ```
 
 ### Learning Path
