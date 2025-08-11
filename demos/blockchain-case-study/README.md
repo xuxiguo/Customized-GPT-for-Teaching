@@ -13,7 +13,8 @@ Guide students through comprehensive blockchain application analysis, focusing o
 ## 🔗 Access Links
 
 - **Live GPT**: [Blockchain Case Study Brainstorm](https://chatgpt.com/g/g-689105f96214819197822b022382d57f-blockchain-case-study-brainstorm)
-- **Configuration**: [View Config](../../configs/blockchain-case-config.md)
+- **Configuration (local)**: [config.yaml](./config.yaml)
+- **Configuration (canonical)**: [configs/blockchain-case-study.yaml](../../configs/blockchain-case-study.yaml)
 - **Description**: Come up with own statement on the case and brainstorm with ChatGPT
 
 ## 📊 Case Study Resources
@@ -131,11 +132,9 @@ Students produce:
 **Temperature**: 0.7
 **Conversation Starter**: "Guide students step by step through analyzing a blockchain business application"
 
-## 📝 Sample Conversations
+## ⚙️ Configuration
 
-- [Supply Chain Traceability Analysis](../../examples/supply-chain-analysis.md)
-- [DeFi Protocol Assessment](../../examples/defi-protocol-analysis.md)
-- [Digital Identity Solution Review](../../examples/digital-identity-analysis.md)
+Local edits go in `config.yaml` for quick adjustments; keep `configs/blockchain-case-study.yaml` as the source of truth for the repository.
 
 ## 🎓 Educational Outcomes
 

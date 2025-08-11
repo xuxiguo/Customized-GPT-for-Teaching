@@ -13,7 +13,8 @@ Support students in mastering blockchain concepts through:
 ## 🔗 Access Links
 
 - **Live GPT**: [Norman Blockchain Personal Assistant](https://chatgpt.com/g/g-6827649b6ea881918c26776087f2bc59-norman-blockchain-personal-assistant)
-- **Configuration**: [View Config](../../configs/course-ta-config.md)
+- **Configuration (local)**: [config.yaml](./config.yaml)
+- **Configuration (canonical)**: [configs/course-ta.yaml](../../configs/course-ta.yaml)
 - **Description**: Your favorite TA for Norman Blockchain Class
 
 ## 🎓 Learning Methodology
@@ -106,11 +107,9 @@ TA: "Excellent question that connects our technical concepts to real-world impac
 **Interactive Style**: Conversational and supportive
 **Knowledge Base**: Course-specific materials
 
-## 📝 Sample Conversations
+## ⚙️ Configuration
 
-- [Consensus Mechanism Discussion](../../examples/consensus-explanation.md)
-- [Smart Contract Debugging Session](../../examples/solidity-debugging.md)
-- [DeFi Protocol Analysis](../../examples/defi-analysis.md)
+Edit the local config (config.yaml) to customize for your course instance. Keep the canonical definition aligned in `configs/course-ta.yaml`.
 
 ## 🎓 Educational Outcomes
 

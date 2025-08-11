@@ -13,7 +13,8 @@ Guide students through critical analysis of Bitcoin ETF developments, focusing o
 ## 🔗 Access Links
 
 - **Live GPT**: [Blockchain Discussion: Bitcoin ETFs](https://chatgpt.com/g/g-682769dfb4dc81919304b7603a8d0812-blockchain-discussion-bitcoin-etfs)
-- **Configuration**: [View Config](../../configs/news-discussion-config.md)
+- **Configuration (local)**: [config.yaml](./config.yaml)
+- **Configuration (canonical)**: [configs/news-discussion.yaml](../../configs/news-discussion.yaml)
 - **Description**: Discussion Assistant for the topics of Bitcoin ETFs
 
 ## 📚 Required Reading Materials
@@ -105,10 +106,9 @@ GPT: "Interesting perspective on [specific point]. Can you elaborate on how this
 **Stop Sequences**: None
 **Frequency Penalty**: 0.3
 
-## 📝 Sample Conversations
+## ⚙️ Configuration
 
-- [Example Discussion 1](../../examples/bitcoin-etf-discussion-1.md)
-- [Example Discussion 2](../../examples/bitcoin-etf-discussion-2.md)
+This demo is backed by a local config (config.yaml) synced with the canonical repository config. Update the local file to experiment; upstream edits should be made in `configs/news-discussion.yaml`.
 
 ## 🎓 Educational Outcomes
 

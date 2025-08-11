@@ -14,7 +14,8 @@ Guide students through comprehensive capital budgeting analysis, focusing on:
 ## 🔗 Access Links
 
 - **Live GPT**: [Monster Beverage Capital Budgeting Decision](https://chatgpt.com/g/g-682403e6757081919bc0555d1f4bbe0b-monster-beverage-capital-budgeting-decision)
-- **Configuration**: [View Config](../../configs/case-study-config.md)
+- **Configuration (local)**: [config.yaml](./config.yaml)
+- **Configuration (canonical)**: [configs/case-study.yaml](../../configs/case-study.yaml)
 - **Description**: Learn Capital Budgeting through class
 
 ## 💰 Investment Scenario
@@ -122,10 +123,9 @@ GPT: "Good start! You mentioned [specific points]. Now, can you help me categori
 **Max Tokens**: 2000
 **Conversation Starters**: "Hi! I'm the Operations Analyst..."
 
-## 📝 Sample Conversations
+## ⚙️ Configuration
 
-- [Example Analysis Session 1](../../examples/monster-case-analysis-1.md)
-- [Example Decision Process 2](../../examples/monster-case-analysis-2.md)
+This demo uses a local config (config.yaml) mirroring the canonical file in `configs/case-study.yaml`. Tweak locally for experiments; keep authoritative updates in the canonical file.
 
 ## 🎓 Educational Outcomes
 
